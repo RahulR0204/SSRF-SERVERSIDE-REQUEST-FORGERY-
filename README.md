@@ -69,6 +69,3 @@ cd cybersecurity-ssrf
 
 Explore the examples and mitigation strategies to understand and defend against SSRF vulnerabilities.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
